@@ -1,4 +1,4 @@
-## CHAPTER ##
+## CHAPTER I##
 {
   ## DÚVIDAS{
     O QUE É I/O?
@@ -66,4 +66,19 @@
 
   }
 
+}
+
+## CHAPTER II##
+{
+  ## DÚVIDAS{
+    
+  }
+  ## TYPESCRIPT{
+    CONCEITO{
+      UMA LIGUAGEM OPEM-SOURCE DA MICROSOFT
+      SUPERSET DO JAVASCRIPT
+      TIPAGEM ESTÁTICA
+    }
+    
+  }
 }
